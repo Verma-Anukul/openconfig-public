@@ -22,12 +22,12 @@ module openconfig-platform-fan {
     "This module defines data related to FAN components in the
     OpenConfig platform model.";
 
-  oc-ext:openconfig-version "0.2.1";
+  oc-ext:openconfig-version "0.3.0";
 
   revision "2026-07-21" {
     description
       "Add fan speed-percentage and direction operational leaves.";
-    reference "0.2.1";
+    reference "0.3.0";
   }
 
   revision "2025-07-16" {
