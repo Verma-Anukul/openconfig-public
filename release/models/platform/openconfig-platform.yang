@@ -65,12 +65,12 @@ module openconfig-platform {
     (presence or absence of a component) and state (physical
     attributes or status).";
 
-  oc-ext:openconfig-version "0.32.1";
+  oc-ext:openconfig-version "0.33.0";
 
   revision "2026-07-21" {
     description
       "Add critical high/low temperature threshold leaves.";
-    reference "0.32.1";
+    reference "0.33.0";
   }
 
   revision "2025-07-15" {
